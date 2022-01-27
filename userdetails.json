@@ -1,0 +1,24 @@
+{
+    "user": [
+        {
+            "Username": "amla",
+            "Password": "Amla@12",
+            "profile": {
+                "description": "123r",
+                "dob": "sdfg",
+                "hobbies": "sdfg",
+                "gender": "sdfgy"
+            }
+        },
+        {
+            "Username": "Anjali",
+            "Password": "Anjali@12",
+            "profile": {
+                "description": "wer",
+                "dob": "asdfg",
+                "hobbies": "sdfv",
+                "gender": "sdf"
+            }
+        }
+    ]
+}
